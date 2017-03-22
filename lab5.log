@@ -1,0 +1,61 @@
+Script started on Tue 21 Mar 2017 11:18:36 PM EDT
+[?1034hfrankliang@frigg:~/lab5> lab[K[K[K./lab4[K5
+Wait for another signal ...
+^\I am a child and I am sending a signal
+Child sent to signal so I guess you are bored, have a great day!
+
+frankliang@frigg:~/lab5> The [K[K[K[K#The child [K[K[K[K[K[Kparent ce[K[Kreceived[K[Ks[K[K[Kives the isngla[K[K[K[K[K[Ksingal [K[K[K[K[K[Kiggnl[K[K[Knal fromthe [K[K[K[K the child
+frankliang@frigg:~/lab5> #What if[K[K[K[K[K[K[K What if we try[Kied using th[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kf we tried ading in [K[K[K[K[K[K[Kding in more[K[K[K[K[K[K[Ksome e[Kattempts
+frankliang@frigg:~/lab5> # What if we tried adding some attempts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CThe parent receives the signal from the child[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./lab5[K
+Wait for another signal ...
+^CThis is the 1 time you pressed cntl-c
+Wait for another signal ...
+# First attempt
+'^H^\I am a child and I am sending a signal
+Child sent to signal so I guess you are bored, have a great day!
+
+frankliang@frigg:~/lab5> A[K$[K# so af[K[K[K[K[Kso after the first attempt, the fiv[K[K[K[K parent received the c hilds [K[K[K[K[Kilds sc[Kignal after pressing con[K[Kntl |[K\
+frankliang@frigg:~/lab5> b[K# but what happens when you added in c[Kseveral attemps[Kts
+frankliang@frigg:~/lab5> # but what happens when you added in several attempts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cso after the first attempt, the parent received the chhilds signal after pressing cntl \[A./lab5[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C# so after the first attempt, the parent received the chhilds signal after pressing cntl \[A./lab5[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Wait for another signal ...
+^CThis is the 1 time you pressed cntl-c
+Wait for another signal ...
+^CThis is the 2 time you pressed cntl-c
+Wait for another signal ...
+^CThis is the 3 time you pressed cntl-c
+Wait for another signal ...
+^CThis is the 4 time you pressed cntl-c
+Wait for another signal ...
+^CThis is the 5 time you pressed cntl-c
+You have only one attempt left.
+Wait for another signal ...
+# h Here if tells you that the                    t fi  gives you an    warning message t f   before yo um   u make a filn  nal attempt
+^\I am a child and I am sending a signal
+Child sent to signal so I guess you are bored, have a great day!
+
+frankliang@frigg:~/lab5> # that will tell you that you shoul dmak[K[K[K[K[Kd make a [K[K[K[K[K[K[Kpresse[K [K[K[K[K[K[Ks[K[K[K[K[K[K[K[K[K[K[K[Kthe p[Kchild shoul [Kd send a signa l to the parent
+frankliang@frigg:~/lab5> #b[K but lets say they [K[K[Kat the they [K[K[K[K[Kcn[K[K[K[K[K[Kcntl \ was not pressede[K
+frankliang@frigg:~/lab5> # but lets say that cntl \ was not pressed[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cthat will tell you that the child should send a signall to the parent[A[C[C[C[C[C[C[C[C[C[C./lab5[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Wait for another signal ...
+^CThis is the 1 time you pressed cntl-c
+Wait for another signal ...
+^CThis is the 2 time you pressed cntl-c
+Wait for another signal ...
+^CThis is the 3 time you pressed cntl-c
+Wait for another signal ...
+^CThis is the 4 time you pressed cntl-c
+Wait for another signal ...
+^CThis is the 5 time you pressed cntl-c
+You have only one attempt left.
+Wait for another signal ...
+^CReached max attempt.  Have a good day.
+frankliang@frigg:~/lab5> # Then will give you m[Ka me[K[Ka[Kmessage saying that you have rea ched max attempts
+frankliang@frigg:~/lab5> # and that the y[K[Ky [K[K program terminates
+frankliang@frigg:~/lab5> # funn as[K[K[K[K[K[K[K[K [K[Kfun[K[K[K# funn [K[K assignments[K
+frankliang@frigg:~/lab5> exit
+exit
+
+Script done on Tue 21 Mar 2017 11:25:38 PM EDT
